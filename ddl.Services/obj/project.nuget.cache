@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "mmgq5Gq0F4sF1lKkFC8CJSU67aVeTAIqPh9PzaYS+v7xXD79HbUY4Vn7df1l9i1vPawFuiJApvAp+vZV/lawjA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\msbr\\OneDrive\\İş masası\\GroupWorkEsas\\ddl.Services\\ddl.Services.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\msbr\\OneDrive\\İş masası\\GroupWorkEsas\\ddl.Interface\\ddl.Abstract.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\msbr\\OneDrive\\İş masası\\GroupWorkEsas\\ddl.Interface\\ddl.Abstract.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

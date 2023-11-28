@@ -1,0 +1,12 @@
+ddl.Core => 
+Entities folderin icerininde Model classlarimiz yaradiriq yeni yalnizca prop,field olan metot olmayan (ctor buna aid deyil)
+Enum bildiyiniz enumlari burda yaradin
+
+ddl.Exception => Exception bizim yaradacimiz Excetionlari Exception Folderinde yaradin
+
+ddl.Interface => Bizim Yaradacigimiz Interfacerileri Interfacer folderinde 
+Abstact classlari ise AAbstact folderinde yaradin
+
+ddl.Services => movzulari tekrar edin ne ucun oldugunu deyecem.Bele yazsam bassa dusmeyeceksiz
+
+Not : Veziyete Gore Bezi ddl silerik ve ya elave edrik bu follderlarda aiddir

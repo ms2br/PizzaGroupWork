@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ddl.Services/1.0.0": {
+        "dependencies": {
+          "ddl.Abstract": "1.0.0",
+          "ddl.Core": "1.0.0",
+          "ddl.Exceptions": "1.0.0"
+        },
+        "runtime": {
+          "ddl.Services.dll": {}
+        }
+      },
+      "ddl.Abstract/1.0.0": {
+        "runtime": {
+          "ddl.Abstract.dll": {}
+        }
+      },
+      "ddl.Core/1.0.0": {
+        "runtime": {
+          "ddl.Core.dll": {}
+        }
+      },
+      "ddl.Exceptions/1.0.0": {
+        "runtime": {
+          "ddl.Exceptions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ddl.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ddl.Abstract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ddl.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ddl.Exceptions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\msbr\OneDrive\İş masası\GroupWork\ddl.Exception\bin\Debug\net6.0\ddl.Exceptions.deps.json
+C:\Users\msbr\OneDrive\İş masası\GroupWork\ddl.Exception\bin\Debug\net6.0\ddl.Exceptions.dll
+C:\Users\msbr\OneDrive\İş masası\GroupWork\ddl.Exception\bin\Debug\net6.0\ddl.Exceptions.pdb
+C:\Users\msbr\OneDrive\İş masası\GroupWork\ddl.Exception\obj\Debug\net6.0\ddl.Exceptions.csproj.AssemblyReference.cache
+C:\Users\msbr\OneDrive\İş masası\GroupWork\ddl.Exception\obj\Debug\net6.0\ddl.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msbr\OneDrive\İş masası\GroupWork\ddl.Exception\obj\Debug\net6.0\ddl.Exceptions.AssemblyInfoInputs.cache
+C:\Users\msbr\OneDrive\İş masası\GroupWork\ddl.Exception\obj\Debug\net6.0\ddl.Exceptions.AssemblyInfo.cs
+C:\Users\msbr\OneDrive\İş masası\GroupWork\ddl.Exception\obj\Debug\net6.0\ddl.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\msbr\OneDrive\İş masası\GroupWork\ddl.Exception\obj\Debug\net6.0\ddl.Exceptions.dll
+C:\Users\msbr\OneDrive\İş masası\GroupWork\ddl.Exception\obj\Debug\net6.0\refint\ddl.Exceptions.dll
+C:\Users\msbr\OneDrive\İş masası\GroupWork\ddl.Exception\obj\Debug\net6.0\ddl.Exceptions.pdb
+C:\Users\msbr\OneDrive\İş masası\GroupWork\ddl.Exception\obj\Debug\net6.0\ref\ddl.Exceptions.dll
